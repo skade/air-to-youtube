@@ -17,6 +17,6 @@ fn main() {
         sh!("youtube-dl '{}' -o '{} - {}.mp4'", &i.streamUrl, &i.contentId, &i.title);
 
         println!("Uploading video {}: {} - {}", &i.contentId, &i.title, &i.streamUrl);
-        sh!("youtube-upload --privacy=private --client-secrets=client_secrets.json --recording-date={} --default-language=en --tags 'rust, mozilla air' --title='{}' --description='{}' --playlist='Mozilla Air' '{} - {}.mp4'", &i.date, &i.title, &i.synopsis, &i.contentId, &i.title);
+        sh!("youtube-upload --privacy=private --client-secrets=client_secrets.json --recording-date={} --default-language=en --tags 'rust, mozilla air' --title='{}' --description='{}' --playlist='Air Mozilla' '{} - {}.mp4'", &i.date, &i.title, &i.synopsis, &i.contentId, &i.title);
     }
 }
