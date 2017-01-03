@@ -1,0 +1,10 @@
+[package]
+name = "air-to-youtube"
+version = "0.1.0"
+authors = ["Florian Gilcher <florian.gilcher@asquera.de>"]
+
+[dependencies]
+xml-rs = "*"
+custom_derive = "*"
+derive_builder = "*"
+shells = "*"

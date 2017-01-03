@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<!-- currently not used -->
+	<resultLength>0</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<!-- currently not used -->
+	<endIndex>0</endIndex>
+
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Rust Meetup December 15th, 2016 - Dec 16 2016</title>
+		<contentId>3816</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/o8e5v7?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Rust Meetup for December 2016</synopsis>
+		<description>Rust Meetup for December 2016</description>
+        <runtime>7019</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/c1/3d/c13d43ff335d9f9510e196803019dd36.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/55/8c/558c2d6231db2c19c8e53924b6543992.jpg">
+		<title>Josh Matthews - An Introduction To Rust - Nov 28 2016</title>
+		<contentId>3854</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/b7v0c7?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>As part of our Engineering Onboarding program, Josh Matthews takes us through a quick introduction to the Rust programming language.</synopsis>
+		<description>As part of our Engineering Onboarding program, Josh Matthews takes us through a quick introduction to the Rust programming language.</description>
+        <runtime>1697</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Rust Meetup November 17th, 2016 - Nov 18 2016</title>
+		<contentId>3815</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/i1e0c8?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Rust meetup for November 2016</synopsis>
+		<description>Rust meetup for November 2016</description>
+        <runtime>6241</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/58/a9/58a982a103e3a298d3cca754c3c18f2e.png" hdImg="https://air.cdn.mozilla.net/media/cache/88/72/88726fddcf1809c4fd3255a827fe7dc0.png">
+		<title>Making MIR Fly - Aug 02 2016</title>
+		<contentId>3491</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/k2d1n4?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Mid-level Intermediate Representation (MIR) was introduced into the Rust compiler in early August 2016.  One of the many benefits of MIR is it makes writing optimizations easier.  In this presentation, Scott Carr describes his summer 2016 intern project on MIR optimizations.
+
+See the Additional Links tab for more information.</synopsis>
+		<description>Mid-level Intermediate Representation (MIR) was introduced into the Rust compiler in early August 2016. One of the many benefits of MIR is it makes writing...</description>
+        <runtime>690</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/58/a9/58a982a103e3a298d3cca754c3c18f2e.png" hdImg="https://air.cdn.mozilla.net/media/cache/88/72/88726fddcf1809c4fd3255a827fe7dc0.png">
+		<title>Procedural Macros in Rust - Aug 02 2016</title>
+		<contentId>3490</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/s8f1b1?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Cameron Swords has not yet given us a description of this presentation, nor any keyword tags to make searching for this event easier.</synopsis>
+		<description>Cameron Swords has not yet given us a description of this presentation, nor any keyword tags to make searching for this event easier.</description>
+        <runtime>527</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup July 2016 - Jul 29 2016</title>
+		<contentId>3419</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/e8e9e3?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Bay Area Rust Meetup for July 2016. Topics TBD.</synopsis>
+		<description>Bay Area Rust Meetup for July 2016. Topics TBD.</description>
+        <runtime>6245</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup May 2016 - May 13 2016</title>
+		<contentId>3209</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/e1j1h4?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Bay Area Rust Meetup for May 2016.</synopsis>
+		<description>Bay Area Rust Meetup for May 2016.</description>
+        <runtime>5752</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup April 2016 - Apr 27 2016</title>
+		<contentId>3179</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/f9j2h7?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Rust meetup on the subject of operating systems.</synopsis>
+		<description>Rust meetup on the subject of operating systems.</description>
+        <runtime>4977</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup March 2016 - Mar 23 2016</title>
+		<contentId>3072</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/u7x0g5?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>It&#39;s time for another meetup. This meetup is dedicated to some of the data science projects being developed in Rust. We have three speakers lined up:
+
+* Dan Burkert (dburkert): kudu-rs: Using Rust with Apache Kudu
+* Ulrik Sverdrup (bluss) (remote): ndarray - N-Dimensional Arrays
+* Michael Hirn (remote): Autumn, Leaf, and Collenchyma: Deep Neural Networks in Rust
+
+The doors will open at 6pm, and the talks go live at 7pm.</synopsis>
+		<description>It&#39;s time for another meetup. This meetup is dedicated to some of the data science projects being developed in Rust. We have three speakers lined...</description>
+        <runtime>6052</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup February 2016 - Feb 19 2016</title>
+		<contentId>3032</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/o9w1c4?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Bay Area Rust Meetup for February 2016. Topics TBD.</synopsis>
+		<description>Bay Area Rust Meetup for February 2016. Topics TBD.</description>
+        <runtime>5635</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Rust Berlin - Machine Learning: Leaf and Collenchyma - Feb 17 2016</title>
+		<contentId>3057</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/f1t9q4?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>MJ and Max will talk about Leaf and Collenchyma:
+
+We will show that Machine Learning, including the promising subfield of Deep Learning, are based on a few universal as well as intelligible  mathematical concepts - giving an intuitive understanding of how latest Machine Intelligence works. The main part will then introduce the Rust HPC Framework Collenchyma and the Rust Machine Intelligence Framework Leaf. The talk will cover the architecture of these Frameworks and how they relate to other state-of-the-art Frameworks such as Tensorflow(Google) and Caffe(UC Berkley), some interesting low-level implementations in Rust and it&#39;s advantages as well as code examples and benchmarks. Leaving the attendants with both a conceptual understanding of Machine Intelligence and the practical insights for building applications in the exciting field of Machine Intelligence.</synopsis>
+		<description>MJ and Max will talk about Leaf and Collenchyma: We will show that Machine Learning, including the promising subfield of Deep Learning, are based on...</description>
+        <runtime>2562</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup January 2016 - Jan 22 2016</title>
+		<contentId>2904</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/f7v3a6?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Bay Area Rust meetup for January 2016. Topics TBD.</synopsis>
+		<description>Bay Area Rust meetup for January 2016. Topics TBD.</description>
+        <runtime>5869</runtime>
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/d0/ee/d0ee07f53b840460bcfc122d67b49908.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/31/a9/31a91423f4154d11edff7d08b6bc79ff.jpg">
+		<title>Friday Plenary: Rust and the Community - Dec 11 2015</title>
+		<contentId>3018</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/m1w6b4?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Dave Herman describes how &#34;The Great Int Debate&#34; taught the Rust team an important lesson in community building on the way to releasing an exciting new systems language.</synopsis>
+		<description>Dave Herman describes how &#34;The Great Int Debate&#34; taught the Rust team an important lesson in community building on the way to releasing an exciting...</description>
+        <runtime>540</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup August 2015 - Aug 27 2015</title>
+		<contentId>2532</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/g6d3q1?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>The SF Rust Meetup for August.</synopsis>
+		<description>The SF Rust Meetup for August.</description>
+        <runtime>6056</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meet-Up - Jul 09 2015</title>
+		<contentId>2232</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/r4k3o7?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Bay area Rust Meet-up for July 2015</synopsis>
+		<description>Bay area Rust Meet-up for July 2015</description>
+        <runtime>6306</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/5e/5b/5e5ba470e9511ea2a704d89838c235ac.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/7e/84/7e84a3df901ef41d9061790642c12121.jpg">
+		<title>DXR 2.0 (Part 1: Dog &amp; Pony Show) - Jun 29 2015</title>
+		<contentId>2255</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/k6v9a9?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Part 1 of the DXR 2.0 presentation from the Mozilla work week at Whistler, June 2015. This part is a demonstration of new features. Part 2 is a group discussion on the upcoming roadmap.
+
+* Improved C/C++ analysis
+* Multi-language support—Python and Rust, for starters
+* Generic identifier search
+* Image browsing
+* Zero slow queries
+* Independent, parallel tree indexing. (This will help us get all the trees currently under MXR indexed.)
+* Permalinks to old revisions
+* A new plugin architecture so we can add new languages, query types, and cross references easily
+* Lots more
+
+Part 2: https://air.mozilla.org/dxr-2-0-part-2-discussion/</synopsis>
+		<description>Demo of features new in the upcoming 2.0 release of DXR, Mozilla&#39;s search and analysis tool for large codebases</description>
+        <runtime>952</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Rust Release Party - May 16 2015</title>
+		<contentId>2112</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/r4n3r4?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>The release party for Rust 1.0.</synopsis>
+		<description>The release party for Rust 1.0.</description>
+        <runtime>3862</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup April 2015 - Apr 10 2015</title>
+		<contentId>2019</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/k3t9w7?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Rust meetup for April.</synopsis>
+		<description>Rust meetup for April.</description>
+        <runtime>6832</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup February 2015 - Feb 20 2015</title>
+		<contentId>1915</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/u1d8s2?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>This meetup will be focused on the blocking IO system part of the standard library, and asynchronous IO systems being built upon mio.</synopsis>
+		<description>This meetup will be focused on the blocking IO system part of the standard library, and asynchronous IO systems being built upon mio.</description>
+        <runtime>7402</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup December 2014 - Dec 19 2014</title>
+		<contentId>1721</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/0l9o8a?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Topics about Rust &amp; Cryptography</synopsis>
+		<description>Topics about Rust &amp; Cryptography</description>
+        <runtime>8330</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup November 2014 - Nov 07 2014</title>
+		<contentId>1654</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/5g9v8g?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>We&#39;ve got a great meeting planned, where Mozilla&#39;s Servo team will be talking about their super interesting browser written in our favorite language. Here&#39;s the lineup:
+
+Matt Brubeck - How browsers work + Robinson
+Keegan McAllister - html5ever &amp; Rust metaprogramming
+Patrick Walton - TBD
+Josh Matthews - So you want to be a Servo wizard...</synopsis>
+		<description>We&#39;ve got a great meeting planned, where Mozilla&#39;s Servo team will be talking about their super interesting browser written in our favorite language. Here&#39;s the...</description>
+        <runtime>7410</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Toronto Rust Meetup October 2014 - Oct 02 2014</title>
+		<contentId>1594</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/3x2q8u?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Topics about Rust.</synopsis>
+		<description>Topics about Rust.</description>
+        <runtime>4285</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/5b/90/5b909376175dde6277713516ec1bdb1b.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/d5/de/d5de177463bdfcd9c4ef8c116971c3e3.jpg">
+		<title>Bay Area Rust Meetup September 2014 - Sep 24 2014</title>
+		<contentId>1463</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/7l4n3g?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Topics about Rust.</synopsis>
+		<description>Topics about Rust.</description>
+        <runtime>3864</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/04/3d/043d33ef0561ec5a00ccc16fad1425b6.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/19/82/19826fb5be8d1f8f6e3ab5efd5776f92.jpg">
+		<title>Faster Rust Builds - Sep 17 2014</title>
+		<contentId>1548</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/6i4k0a?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>1:30- Stuart Pernsteiner, &#34;Faster Rust Builds&#34; 	MV</synopsis>
+		<description>Stuart Pernsteiner, &#34;Speeding up Rust build times using parallel and incremental compilation.&#34;</description>
+        <runtime>972</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup August 2014 - Aug 22 2014</title>
+		<contentId>1297</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/6v0w5u?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Topics about Rust.</synopsis>
+		<description>Topics about Rust.</description>
+        <runtime>5132</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/f5/ac/f5ac5cab992a0f62833399845dca177e.png" hdImg="https://air.cdn.mozilla.net/media/cache/e7/10/e710c622c9af488c18f4754167980e9b.png">
+		<title>Dynamically Sized Typed - Nick Cameron - Aug 14 2014</title>
+		<contentId>1416</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/7m9w4p?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Mozilla Research&#39;s Nick Cameron, a.k.a. nrc, gives a talk on Dynamically Sized Types (DST), the “silver bullet” solution to many of Rust&#39;s current limitations. 
+
+Recorded at the London Rust meetup.</synopsis>
+		<description>Mozilla Research&#39;s Nick Cameron, a.k.a. nrc, gives a talk on Dynamically Sized Types (DST), the “silver bullet” solution to many of Rust&#39;s current limitations. Recorded...</description>
+        <runtime>1981</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Zinc, the embedded Rust stack - Vladimir Pouzanov - Aug 14 2014</title>
+		<contentId>1415</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/3f6q9t?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Vladimir &#34;Farcaller&#34; Pouzanov presents Zinc, the embedded rust stack. He talks about how embedded engineers might benefit from Rust, the problems faced while developing the stack, and the current plans on where&#39;s the project headed.
+
+Recorded at the London Rust meetup</synopsis>
+		<description>Vladimir &#34;Farcaller&#34; Pouzanov presents Zinc, the embedded rust stack. He talks about how embedded engineers might benefit from Rust, the problems faced while developing the...</description>
+        <runtime>2085</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/ea/45/ea4595907828d4437e16df62f20871a5.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/9d/ab/9dab88b7273f80041164a8119c8469a9.jpg">
+		<title>Bay Area Rust Meetup July 2014 - Aug 06 2014</title>
+		<contentId>1422</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/3l7q0i?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>This meetups theme is based on the amazing work at building Rust&#39;s web infrastructure. We have talks across the  the entire web stack. Here is are lineup of speakers:
+
+• Jonathan Reem and Zach Pomerantz: Iron middleware framework
+
+• Steven Fackler: The design and a bit of implementation of rust-postgres. I&#39;ll also briefly go over rust-postgres-macros which leverages Rust&#39;s compiler plugin support to add some static safety checks to SQL statements.
+
+• Christoph Burgdorf: Nickel web server
+
+• James Rowe: Why you should make a Web Framework in Rust</synopsis>
+		<description>Web technology for Rust</description>
+        <runtime>4812</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/f7/a3/f7a3af21cf5f65c193e24f9279e3f204.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/a8/cc/a8cc40d5a2e6dbdb0acb78819af3724c.jpg">
+		<title>Introduction to Rust - Jul 30 2014</title>
+		<contentId>1336</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/8n1k9o?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Corey Richardson presents an introduction to Rust, a language in development by Mozilla Research. The focus is on Rust&#39;s motivation and how it solves the problems of modern systems programming, augmented with a brief tutorial and guidance on how to get involved.</synopsis>
+		<description>Introduction to Rust</description>
+        <runtime>2824</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/0e/bb/0ebb64109a2ca3b8b58a90c929037836.png" hdImg="https://air.cdn.mozilla.net/media/cache/47/3a/473adc68d24702b6ac07861568eefc18.png">
+		<title>Rust Parsing Robustness - Jul 22 2014</title>
+		<contentId>1318</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/4g3l8j?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Mozilla Intern Corey M. Richardson&#39;s adventure in creating a formal grammar for the Rust language, featuring sidetracks into parsing, macros, and failure.</synopsis>
+		<description>Mozilla Intern Corey M. Richardson&#39;s adventure in creating a formal grammar for the Rust language, featuring sidetracks into parsing, macros, and failure.</description>
+        <runtime>750</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Meetup Rust Paris #5 RustLex by Leo Testard. - Jul 16 2014</title>
+		<contentId>1314</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/6k1u0o?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>RustLex is a lexical analyser generator syntax extension for Rust. It works similarly to Lex, written in Rust and generating Rust code using a syntax extension. This talk recalls what lexical analyser generators are, and what they are used for inside compilers, then presents the basic usage of RustLex through simple examples.
+
+Leo Testard is currently a student in computer science in the University Pierre et Marie Curie (Paris 6), and is mainly interested in programming languages, especially systems programming and functional programming. He did minor contributions to Rust itself, as well as a few projects around the language, including RustLex.</synopsis>
+		<description>Presentation of the RustLex lexical analyser generator syntax extension for Rust.</description>
+        <runtime>1336</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Meetup OCaml: An introduction to Rust for OCaml programmers - Jul 09 2014</title>
+		<contentId>1320</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/9c3e0s?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Rust is a new programming language targeting systems-level applications. Rust offers a similar level of control over performance to C++, but guarantees type soundness, memory safety, and data-race freedom. One of Rust&#39;s distinguishing features is that, like C++, it supports stack allocation and does not require the use of a garbage collector.
+
+In this talk Felix introduces Rust for functional programmers, In these talks the examples focus on the commons points betweens OCaml and Rust. This talk was made for the Ocaml User Group of Paris (OUPS)
+
+Felix S Klock II is a senior researcher at Mozilla research. He focuses on safe support for parallelism in prorgramming languages. He is currently working on the Rust programming language as well as Parallel JavaScript.</synopsis>
+		<description>Felix introduces Rust for functional programmers, with a focus on the commons points between Ocaml and Rust.</description>
+        <runtime>1783</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup June 2014 - Jun 27 2014</title>
+		<contentId>1184</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/9w9u5m?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>We will be going through all the Gaming tech and prototypes that the community has been developing.
+
+Here&#39;s our lineup:
+
+    • Brendan Zabarauskas: The Library Ecosystem for Rust Game Development: gl-rs, glfw-rs, cgmath-rs, and possibly rust-graphics and piston.
+
+    • Corey Richardson: Introduction to OpenGL and Rust. (15-45 min)
+
+    • Chip Collier: how we&#39;re structuring Voyager and hoping to use the most of Rust to accomplish our goals.
+
+    • Colin Sherratt (Remote): Reducing VR latency with Rust: vr-rs and the Oculus Rift. Matthew McPherrin has graciously offered to bring in his Oculus Rift to demo vr-rs in person. (15-20 min)</synopsis>
+		<description>Building games in Rust.</description>
+        <runtime>5294</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Meetup Rust Paris #5 Whats new in Rust special unboxed closures by pnkfelix - Jun 16 2014</title>
+		<contentId>1249</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/0p0h1x?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Rust is a new programming language targeting systems-level applications. Rust offers a similar level of control over performance to C++, but guarantees type soundness, memory safety, and data-race freedom. One of Rust&#39;s distinguishing features is that, like C++, it supports stack allocation and does not require the use of a garbage collector.
+
+Felix S Klock II is a senior researcher at Mozilla research. He focuses on safe support for parallelism in prorgramming languages. He is currently working on the Rust programming language as well as Parallel JavaScript.</synopsis>
+		<description>Join Felix S Klock II presenting upcoming changes to Rust like Unboxed Closures.</description>
+        <runtime>3021</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>RustMeetupParis@Mozilla: What New in Rust by Felix S Klock II special MutApocalypse - May 30 2014</title>
+		<contentId>1197</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/3c3a2d?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Felix S Klock II from the Rust developer team is presenting the state of the rust project in May.
+In this issue we will debate on DST, Mut Apocalypse, String, end of &#39;~&#39; time and so many things!
+
+Stay tuned!</synopsis>
+		<description>pnkFelix presents &#34;What new in Rust this month?&#34; from the Paris Rust Meetup!</description>
+        <runtime>2784</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>RustMeetupParis@Mozilla: Servo by Simon Sapin - May 29 2014</title>
+		<contentId>1198</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/0i6c3b?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Simon Sapin présente à la communauté Rust Francophone de Paris Servo.
+Au cours de cette video Simon nous présente les concepts utiliser au cœur du moteur de rendu Web Servo,
+les contraintes de ce dernier ainsi que la relation qu&#39;entretient Rust avec Servo.
+
+Simon Sapin from Servo team presents Servo to the French Rust community.
+In this video he will approach the concepts behind this web rendering engine, the constraints and the relationship with Rust.</synopsis>
+		<description>Simon Sapin presents Servo, a research project from Mozilla for parallelizing the Web with Rust!</description>
+        <runtime>1853</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Guaranteeing memory safety in Rust - May 21 2014</title>
+		<contentId>1171</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/0l7u7x?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Event will be delayed due to technical issues
+
+# Abstract
+
+Rust is a new programming language targeting systems-level applications. Rust offers a similar level of control over performance to C++, but guarantees type soundness, memory safety, and data-race freedom. One of Rust&#39;s distinguishing features is that, like C++, it supports stack allocation and does not require the use of a garbage
+collector.
+
+This talk covers the basics of Rust, with an emphasis on the type system. We show how Rust employs ownership and regions in order to guarantee memory safety, and how these same techniques can be generalized to provide data-race freedom.
+
+# Bio
+
+Nicholas Matsakis is a senior researcher at Mozilla research.  He focuses on safe support for parallelism in prorgramming languages. He is currently working on the Rust programming language as well as Parallel JavaScript.</synopsis>
+		<description>Join Nicholas Matsakis discusses the basics of Rust, with an emphasis on the type system.</description>
+        <runtime>2887</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup May 2014 - May 09 2014</title>
+		<contentId>1098</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/2q4j4s?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>A Rust meetup dedicated to testing. John Regehr will present his related work on fuzzing and reducing the C language and how that work can be applied to Rust, and there will be additional short talks about testing topics related to Rust.</synopsis>
+		<description>A Rust meetup dedicated to testing. John Regehr will present his related work on fuzzing and reducing the C language and how that work can...</description>
+        <runtime>5226</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup March 2014 - Mar 14 2014</title>
+		<contentId>981</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/2s5x6j?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>The San Francisco Bay Area Rust meetup for March 2014. Talks about Rust: building an operating system, the region system, more TBD.</synopsis>
+		<description>The San Francisco Bay Area Rust meetup for March 2014. Talks about Rust: building an operating system, the region system, more TBD.</description>
+        <runtime>4778</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup February 2014 - Feb 26 2014</title>
+		<contentId>951</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/8t4h3u?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>David Renshaw talks about Cap&#39;n Proto in Rust, Steven Fackler about macro export, and Kevin Cantu about testing.</synopsis>
+		<description>David Renshaw talks about Cap&#39;n Proto in Rust, Steven Fackler about macro export, and Kevin Cantu about testing.</description>
+        <runtime>4909</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/66/80/6680e00f488b9d84b08fef13306f47df.png" hdImg="https://air.cdn.mozilla.net/media/cache/a8/fa/a8facd0adfab097fb2a1b1309dd29747.png">
+		<title>Bay Area Rust Meetup December 2013 - Dec 18 2013</title>
+		<contentId>856</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/9r2j9t?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>On December 17th Steve Klabnik, the author of Rust for Rubyists, will be talking about Rust&#39;s documentation. We will also be having some shorter talks about Rust.</synopsis>
+		<description>On December 17th Steve Klabnik, the author of Rust for Rubyists, will be talking about Rust&#39;s documentation. We will also be having some shorter talks...</description>
+        <runtime>6419</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/f1/ee/f1ee3c78e6d8b4e56f25152d65b3cdfc.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/71/8f/718f4a62324e0354943bcb0d89de22fa.jpg">
+		<title>SprocketNES: Practical Systems Programming in Rust - Nov 21 2013</title>
+		<contentId>793</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/3u9r8y?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Patrick Walton, research engineer on Rust and Servo, presents his NES emulator written in Rust, SprocketNES. This talk explains in detail how he used Rust&#39;s advanced features to efficiently implement this fun project.</synopsis>
+		<description>Patrick Walton, research engineer on Rust and Servo, presents his NES emulator written in Rust, SprocketNES. This talk explains in detail how he used Rust&#39;s...</description>
+        <runtime>5855</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/50/8a/508afa262afa7e61df5f63b62b882908.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/f1/bf/f1bf99dfcdbb52272f9d2666c30217af.jpg">
+		<title>An I/O System for Rust - Sep 07 2013</title>
+		<contentId>697</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/5l3q4g?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Eric Reed from the Research team presents &#34;An I/O System for Rust&#34;</synopsis>
+		<description>Eric Reed from the Research team presents &#34;An I/O System for Rust&#34;</description>
+        <runtime>1411</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/56/3d/563dd2bfa42f65e2d9dc3bae2e6e1a80.png" hdImg="https://air.cdn.mozilla.net/media/cache/02/e8/02e818cbe9f9dec4cfa383b98d1570d5.png">
+		<title>Default Methods in Rust - Aug 14 2013</title>
+		<contentId>635</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/5t3o4s?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Michael Sullivan, &#34;Default Methods in Rust&#34;</synopsis>
+		<description>Michael Sullivan, &#34;Default Methods in Rust&#34;</description>
+        <runtime>930</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/c9/71/c9715628f4d631f0d8d8d1273251ea21.png" hdImg="https://air.cdn.mozilla.net/media/cache/9a/a0/9aa0b4fb90a06cef3d6a8f3d47a579e9.png">
+		<title>Ben Blum from the Research team presents &#34;Types of Types in Rust&#34; - Aug 14 2013</title>
+		<contentId>642</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/1b1p9s?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Ben Blum from the Research team presents &#34;Types of Types in Rust&#34; from 10 Forward</synopsis>
+		<description>Four Interns without presentation titles.</description>
+        <runtime>1346</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/77/3d/773dcfa052c4cef8647f3f86668cc019.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/e1/0e/e10e93d0a2f4cc7cc4e8ef3db0b6a56a.jpg">
+		<title>&#34;A Work-stealing Runtime for Rust&#34; - Aaron Todd - Aug 09 2013</title>
+		<contentId>618</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/7u9h9k?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>&#34;A Work-stealing Runtime for Rust&#34; - Aaron Todd</synopsis>
+		<description>1:30 - Aaron Todd, &#34;A Work-stealing Runtime for Rust&#34; 2:00 - Evan Shapiro, &#34;TITLE&#34; 2:30 - Ashish Dubey, &#34;Better Communication Flow in Firefox Marketplace&#34; 3:00...</description>
+        <runtime>1085</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/2e/cb/2ecb7ec665c8c71dc207200ceec19327.png" hdImg="https://air.cdn.mozilla.net/media/cache/08/e2/08e238f8f49b8f66e4c113a21c696724.png">
+		<title>Intern Presentations: GC in Rust - Aug 31 2012</title>
+		<contentId>260</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/2r7b2v?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Elliott Slaughter from the Research team presents &#34;High-performance GC in Rust.&#34;</synopsis>
+		<description>Intern Presentation: High-performance Garbage Collection in Rust</description>
+        <runtime>889</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/b0/d5/b0d5eb4bcfe0d26bfa5728b3b50b7aa0.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/84/84/848410897f1d44e4032ff7c9f2f8af40.jpg">
+		<title>Intern Presentation: Handsome Macros in Rust - Aug 17 2012</title>
+		<contentId>240</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/3i6o6g?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Paul Stansifer from the Research team presents &#34;Handsome Macros in Rust&#34;
+
+Joshua Cranmer from the Platform team presents &#34;Exploring code coverage in Mozilla&#34;
+
+Marshall Moutenot from the Security team presents &#34;Sandboxing Firefox&#34;
+
+Joseph Kelly from the Metrics team presents &#34;Applied Statistics at Mozilla: Modeling ADIs to Performance Testing&#34;</synopsis>
+		<description>Paul Stansifer from the Research team presents &#34;Handsome Macros in Rust&#34; Joshua Cranmer from the Platform team presents &#34;Exploring code coverage in Mozilla&#34; Marshall Moutenot...</description>
+        <runtime>5076</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/2e/cb/2ecb7ec665c8c71dc207200ceec19327.png" hdImg="https://air.cdn.mozilla.net/media/cache/08/e2/08e238f8f49b8f66e4c113a21c696724.png">
+		<title>Intern Presentation: Parallel Programming with Failure in Rust - Aug 16 2012</title>
+		<contentId>238</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/9w4l5t?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Benjamin Blum from the Research team presents &#34;Parallel Programming with Failure in Rust&#34;
+
+Michael Sullivan from the Research team presents &#34;Static Typeclass Methods in Rust&#34;
+
+Video starts 1 min and 40 seconds in.</synopsis>
+		<description>Intern Presentation</description>
+        <runtime>2111</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/88/41/88418940f6eba23689dfc70360d387d1.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/30/ed/30ed3ce653aadaa101f2ce6a4cfe1eb8.jpg">
+		<title>Intern Presentation: Rust Typeclasses - Aug 10 2012</title>
+		<contentId>228</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/6j8e3q?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Lindsey Kuper from the Research team presents “Rust Typeclasses Turn Trait-er.”</synopsis>
+		<description>Lindsey Kuper from the Research team presents “Rust Typeclasses Turn Trait-er.”</description>
+        <runtime>1116</runtime>
+	</item>
+	
+	
+	
+	
+	
+		
+		
+	
+
+	<item sdImg="https://air.cdn.mozilla.net/media/cache/7f/65/7f6513a23ff037459e0b649809a8919c.jpg" hdImg="https://air.cdn.mozilla.net/media/cache/30/50/3050f740b1ebf81e612f16132b4c6b31.jpg">
+		<title>Intern Presentation: Message Passing in Rust - Aug 09 2012</title>
+		<contentId>231</contentId>
+		<contentType>Talk</contentType>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamUrl>http://vid.ly/7h4y5v?content=video&amp;format=mp4</streamUrl>
+		</media>
+		<synopsis>Eric Holk from the Research team presents “Fast, safe message passing for Rust.”</synopsis>
+		<description>Fast, safe message passing for Rust.</description>
+        <runtime>1298</runtime>
+	</item>
+	
+	
+</feed>
